@@ -77,7 +77,7 @@ The model was evaluated across various benchmarks with state-of-the-art performa
 
 ### Installation
 ```bash
-git clone [https://github.com/yourusername/MSHTANet.git](https://github.com/yourusername/MSHTANet.git)
+git clone https://github.com/anand1982/NC56DHC-datasets-paper-code.git
 cd MSHTANet
 pip install -r requirements.txt
 
