@@ -17,7 +17,10 @@ Accurate and early identification of plant diseases is critical for sustainable 
 
 ## 📊 The NC56DHC Dataset
 
+
 ![NC56DHC Dataset Sample Images](NC56DHC1.png)
+
+
 
 The NC56DHC dataset provides a realistic and challenging benchmark for 9 economically important crops across 56 classes (diseased and healthy).
 
@@ -33,7 +36,11 @@ The NC56DHC dataset provides a realistic and challenging benchmark for 9 economi
 | **Sugarcane** | Banded Chlorosis, Red Rot, Smut, Yellow Leaf, Grassy Shoot, Brown Spot, etc. |
 | **Tomato** | Septoria, Leaf Curl, Verticillium Wilt, Leaf Blight, Healthy |
 
+
+
 ![NC56DHC Dataset Sample Images](NC56DHC2.png)
+
+
 
 ### Dataset Summary
 - **Total Crops:** 9
