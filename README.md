@@ -10,7 +10,7 @@ This repository contains the official implementation of **MSHTANet**, a lightwei
 Accurate and early identification of plant diseases is critical for sustainable agriculture. However, most existing models are restricted to crop-specific datasets or are too computationally heavy for real-field deployment. 
 
 **Our Contribution:**
-1.  **NC56DHC Dataset:** A comprehensive benchmark integrating five major agricultural datasets (CCMT, PSMCMD, S2R, Chilli–Rice, and Multi-Crop Plant Disease).
+1.  **NC56DHC Dataset:** A comprehensive benchmark integrating five major agricultural datasets (CCMT, PSMCMD, S2R, Chilli–Rice, and Multi-Crop Plant Disease (Fungi, Healthy, Nematode)).
 2.  **MSHTANet:** A hybrid architecture combining **Convolutional Neural Networks (CNN)** for local texture extraction and **Transformers** for global contextual dependencies.
 
 ---
