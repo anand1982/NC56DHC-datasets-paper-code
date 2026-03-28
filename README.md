@@ -46,6 +46,8 @@ The NC56DHC dataset provides a realistic and challenging benchmark for 9 economi
 - **Total Crops:** 9
 - **Total Classes:** 56
 - **Total Images:** ~40,000+ (integrated from 5 sources)
+### Dataset Link:
+https://data.mendeley.com/datasets/rckyrd2m9c/3
 
 ---
 
