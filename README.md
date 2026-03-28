@@ -24,6 +24,8 @@ Accurate and early identification of plant diseases is critical for sustainable 
 
 The NC56DHC dataset provides a realistic and challenging benchmark for 9 economically important crops across 56 classes (diseased and healthy).
 
+![NC56DHC Dataset Sample Images](P.png)
+
 | Crop | Diseases Covered |
 | :--- | :--- |
 | **Cashew** | Anthracnose, Gumosis, Leaf Miner, Red Rust, Healthy |
