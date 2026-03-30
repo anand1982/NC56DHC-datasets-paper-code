@@ -60,6 +60,10 @@ MSHTANet is designed for efficiency and accuracy in precision agriculture. It le
 * **Transformer-based Attention:** To model global relationships across the leaf surface.
 * **Reduced Complexity:** Optimized for deployment on edge devices.
 
+### paper Citation
+
+Jain, Anand Kumar, and Neeta Nain. "A Lightweight and Reduced-Parameter Attention-Based Deep Learning Model for Multi-Crop Plant Disease Classification Across Multiple Datasets." Cluster Computing, 2026. (Submitted).
+
 ### Experimental Results
 The model was evaluated across various benchmarks with state-of-the-art performance:
 
