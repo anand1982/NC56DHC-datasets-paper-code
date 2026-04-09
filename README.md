@@ -62,7 +62,7 @@ MSHTANet is designed for efficiency and accuracy in precision agriculture. It le
 
 ### paper Citation
 
-Jain, Anand Kumar, and Neeta Nain. "A Lightweight and Reduced-Parameter Attention-Based Deep Learning Model for Multi-Crop Plant Disease Classification Across Multiple Datasets." Precision Agriculture, 2026. (Submitted).
+Jain, Anand Kumar, and Neeta Nain. "A Lightweight and Reduced-Parameter Attention-Based Deep Learning Model for Multi-Crop Plant Disease Classification Across Multiple Datasets." Machine Vision and Applications, 2026. (Submitted).
 
 ### Experimental Results
 The model was evaluated across various benchmarks with state-of-the-art performance:
